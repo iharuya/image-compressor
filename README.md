@@ -2,9 +2,11 @@
 
 A tool to compress images.
 
-This is an output of my studing react.js
+This is an output of my studying react.js
 
-Thanks to [Browser Image Compression](https://github.com/Donaldcwl/browser-image-compression#readme)
+Special thanks to [Browser Image Compression](https://github.com/Donaldcwl/browser-image-compression#readme)
+
+To be honest, I am not sure what's going on in the compression process ⸜( ´ᐞ` )⸝
 
 ## Gallery
 
